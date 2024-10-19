@@ -1,0 +1,39 @@
+1 = Face #1
+Face mask: yes
+Face mask covering nose and mouth: yes
+
+2 = Face #1
+Face mask: no
+Face #2
+Face mask: no
+Face #3
+Face mask: no
+Face #4
+Face mask: no
+Face #5
+Face mask: no
+Face #6
+Face mask: no
+Face #7
+Face mask: no
+Face #8
+Face mask: no
+Face #9
+Face mask: no
+Face #10
+Face mask: no
+Face #11
+Face mask: no
+Face #12
+Face mask: no
+Face #13
+Face mask: no
+Face #14
+Face mask: no
+Face #15
+Face mask: yes
+Face mask covering nose and mouth: yes
+Face #16
+Face mask: no
+Face #17
+Face mask: no
